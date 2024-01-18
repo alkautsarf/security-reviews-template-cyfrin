@@ -1,5 +1,5 @@
 ---
-title: *** Audit Report
+title: Audit Report
 author: elpabl0.eth
 date: January 10, 2024
 header-includes:
